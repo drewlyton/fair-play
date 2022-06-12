@@ -84,7 +84,7 @@ time to fulfilling social and civic commitments, CPEing a busy family’s life o
 ### Auto
 Do you know what happens if you don’t put the new registration sticker on your car? You get a ticket that could have easily been avoided, that’s what. This cardholder handles all items relating to your family’s car(s), including putting that sticker on in a timely manner, paying for that darn ticket, renewing insurance, handling maintenance, getting car washes, regularly filling up with gas, and getting the oil checked so that you feel safe and secure in the family car.
 
-### Birthday Celebrations (Other Kids)
+### Birthday Celebrations (Kids)
 From RSVPing to buying presents, the birthday party circuit for your kids is riddled with opportunities for missteps . . . like when you’re already out the door and realize it’s a princess dress-up theme. Oops. And why didn’t anyone warn you how many weekend hours you’d be spending at other kids’ birthday parties chitchatting with parents you hardly know? Do a happy dance if siblings are invited so you can have two kids in the same place at the same time.
 
 Note! If you have two or more kids who have to be at separate birthday celebrations, you and your partner can both hold this card separately. A Kid Split means you both CPE the same card at the same time but for separate kids. See page 267 for more about splitting cards.
