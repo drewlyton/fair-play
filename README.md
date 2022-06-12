@@ -16,4 +16,5 @@ This project is meant to make the data more open and accessible to others. Howev
 ## What's "Fair Play"?
 
 _From the website:_
-The Fair Play book delivers a time and anxiety saving system that offers couples a completely new way to divvy up their domestic responsibilities. It started with the “Sh\*t I Do” spreadsheet – a list of all the invisible tasks it takes to run a home, but developed into a gamified system with four easy-to-follow rules, 100 household tasks, and a figurative card game you play with your partner. Remember: Fair Play is a practice. Just like riding a bike for the first time it might feel awkward and you might fall down, but with time it will come as second nature to you!
+
+> The Fair Play book delivers a time and anxiety saving system that offers couples a completely new way to divvy up their domestic responsibilities. It started with the “Sh\*t I Do” spreadsheet – a list of all the invisible tasks it takes to run a home, but developed into a gamified system with four easy-to-follow rules, 100 household tasks, and a figurative card game you play with your partner. Remember: Fair Play is a practice. Just like riding a bike for the first time it might feel awkward and you might fall down, but with time it will come as second nature to you!
