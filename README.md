@@ -2,7 +2,7 @@
 
 This repository provides a list of all of the cards in the [Fair Play](https://www.fairplaylife.com) system by Eve Rodsky. The cards are available in `.md` and `.json` formats.
 
-This project is meant to make the data more open and accessible to others. However, I **strongly recommend** buying [the book](https://www.penguinrandomhouse.com/books/605905/fair-play-by-eve-rodsky/9780525541943/) and [game](https://www.penguinrandomhouse.com/books/647409/the-fair-play-deck-by-eve-rodsky/9780593231661/) to support the orignial creators.
+This project is meant to make the data more open and accessible to others. However, I **strongly recommend** buying [the book](https://www.penguinrandomhouse.com/books/605905/fair-play-by-eve-rodsky/9780525541943/) and [game](https://www.penguinrandomhouse.com/books/647409/the-fair-play-deck-by-eve-rodsky/9780593231661/) to support the original creators.
 
 | Suit            | Markdown                                   | JSON                                                |
 | --------------- | ------------------------------------------ | --------------------------------------------------- |
