@@ -8,10 +8,10 @@ async function processLineByLine(path) {
     input: fileStream,
     crlfDelay: Infinity,
   });
-  console.log(fileStream.path);
   // Note: we use the crlfDelay option to recognize all instances of CR LF
   // ('\r\n') in input.txt as a single line break.
   const cards = [];
+  const cardsNoKids = [];
   let object = {};
   for await (const line of rl) {
     // Each line in input.txt will be successively available here as `line`.
@@ -19,6 +19,7 @@ async function processLineByLine(path) {
       if (object?.title) {
         object.suit = suit;
         cards.push(object);
+        if (!object.tags.includes("kids")) cardsNoKids.push(object);
         object = {};
       }
       object = getTitleAndTags(line);
@@ -30,6 +31,7 @@ async function processLineByLine(path) {
   }
   try {
     fs.writeFileSync(`${suit}-suit.json`, JSON.stringify(cards));
+    fs.writeFileSync(`${suit}-suit-no-kids.json`, JSON.stringify(cardsNoKids));
     // file written successfully
   } catch (err) {
     console.error(err);
@@ -54,7 +56,7 @@ const suits = ["home", "caregiving", "magic", "out", "wild"];
 
 async function parseAll() {
   suits.forEach(async (suit) => {
-    console.log(suit);
+    console.log("Processing", suit);
     processLineByLine(`../${suit}-suit.md`);
   });
 }
