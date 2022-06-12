@@ -27,9 +27,7 @@ CPEing this card can be as basic as making sure that every bed has a pillow, you
 This card requires CPE of everything from laundry detergent, batteries, and lightbulbs, to toothpaste, coffee filters, and trash bags! Expect to be astounded by how your parents’ generation pulled this off without Amazon.
 
 ### Home Maintenance
-How many people does it take to change a lightbulb? In this game, just one, and it’s the person holding this card. You’re also responsible for unclogging toilets, calling a repairman when the air conditioner breaks (inevitably in the height of summer), finding the manual for the vacuum
-
-cleaner that’s spewing dust, and every other home maintenance to-do that requires hands-on CPE.
+How many people does it take to change a lightbulb? In this game, just one, and it’s the person holding this card. You’re also responsible for unclogging toilets, calling a repairman when the air conditioner breaks (inevitably in the height of summer), finding the manual for the vacuum cleaner that’s spewing dust, and every other home maintenance to-do that requires hands-on CPE.
 
 ### Home Purchase/Rental, Mortgage & Insurance
 If you aspire to be a homeowner with a mortgage one day, then when the time comes, you’ll need to CPE the purchasing process. If you’re already a homeowner with a mortgage, this cardholder oversees title insurance, reviewing an infinite amount of statements, and possible refinancing. If you’re looking to rent, then you’ll be the one to scour listings, fill out applications, and furnish your credit score. You’ll also handle home insurance (whether you rent or own), including evaluating the appropriate policy and filing claims if needed. Grab this card fast if paperwork and record-keeping are your strong suits.
@@ -44,20 +42,18 @@ If you haven’t ever CPE’d this card, would you like to take a guess at how m
 If you’ve got a lawn, a backyard or balcony vegetable garden, or just a struggling succulent by your kitchen window, then you know it takes careful CPE to keep your greenery alive, no less thriving. Even if you have a helpful gardener to lend you his or her green thumb, it’s still on you to keep an eye on limp or leggy plants that may need a shot of Miracle-Gro.
 
 ### Mail
-This cardholder isn’t only responsible for grabbing the mail every day on the way in the front door. It’s what happens once the mail is inside your home that’s most important. This CPEer will
+This cardholder isn’t only responsible for grabbing the mail every day on the way in the front door. It’s what happens once the mail is inside your home that’s most important. This CPEer will have a system for retrieving and opening mail in a timely, date-sensitive manner, and then handing off invitations, bills, jury duty notices, health insurance reimbursements, tax refunds, etc., to their rightful owner. Perk: This cardholder gets to choose between the Star Wars or Elvis commemorative stamps for your family’s outgoing mail because now it’s your job to buy ’em and stick ’em.
 
-have a system for retrieving and opening mail in a timely, date-sensitive manner, and then handing off invitations, bills, jury duty notices, health insurance reimbursements, tax refunds, etc., to their rightful owner. Perk: This cardholder gets to choose between the Star Wars or Elvis commemorative stamps for your family’s outgoing mail because now it’s your job to buy ’em and stick ’em.
-
-### Meals (Weekday Breakfast)
+### Weekday Breakfast (Meals)
 One mom I spoke to lamented that she’s held this card every single day since her kids were old enough to eat solids. Every. Single. Day. Prepare to frequently re-deal full CPE of this nonnegotiable Daily Grind unless serving oatmeal and toast at breakneck speed is your jam. Dishes left in the sink and milk spilled on the counter isn’t “on you” unless you hold the “dishes” and “tidying” cards. Still, be respectful before you zoom out the door.
 
-### Meals (Kids; Lunch)
+### Lunch (Kids; Meals)
 If you’re this cardholder, toss the idea of a relaxing night out the window because it’s time to start packing lunch for the kids. Don’t let all the #schoollunch pics on Instagram get you down. Your Fair Play Minimum Standard of Care could be a protein bar, an apple, and a bottle of water if that’s all your kid will eat. And even if your child’s school provides lunch, you still have to take the lead and sign up for this program and provide lunch money to cover pizza Fridays.
 
-### Meals (Weekday Dinner)
+### Dinner (Meals)
 If you have never CPE’d dinnertime in a family with kids (particularly young ones), then no words can really do justice to this nightly circus. The ringleader plans a weekly menu, consults the “groceries” cardholder to have the ingredients at home, then cooks, ensures that the food actually gets eaten, and ideally uses this forced family time to have “quality” conversations about everyone’s day. Men: Kudos to you if cooking is one of your domestic contributions, but that’s just one word on this doozy of a card. Hero status isn’t awarded for just pulling out a frying pan.
 
-### Meals (Weekend)
+### Weekend Meals (Meals)
 Why do weekend meals feel more burdensome than weekday meals? Oh, let us count the ways. Maybe it’s because there are twice as many of them than on a school day. Perhaps it’s because they amplify the kitchen mess exponentially. Or because when you make it to Saturday night, you’re still only halfway there. Weekend meals deserve their own card—who wants it? Psst. Serving lunch at 4 p.m. doesn’t cut it unless midday meltdowns are your thing.
 
 ### Memories & Photos
