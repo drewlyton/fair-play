@@ -1,0 +1,71 @@
+### Bathing & Grooming (Kids)
+The nature of this cardholder’s responsibilities changes depending on your kids’ ages, but the point is that your kids need to brush their teeth, bathe, wash their faces, cut their nails, and brush their hair. Over and over again.
+
+**Tip!** Pay attention to your kids’ developing needs. If you notice a suspicious scent every time your teenager is within five feet, it’s probably time for this CPEer to buy deodorant and make sure your kid knows how often to use it. Daily!
+
+### Grooming & Wardrobe (Player 1)
+Looking and feeling good, especially after children, doesn’t come easy. (There’s a reason that beauty is a $445 billion industry.) Even if you’re a DIY kind of woman, it still takes time to slather on moisturizer, pluck your eyebrows, style your hair, and put on lipstick. Kick it up a notch and you may add mani/pedis, eyelash extensions, and waxing to your beauty regimen. Add in shopping for clothes (in various sizes for pre-pregnancy, post-pregnancy, nursing, and every other reason your weight fluctuates) and you’ve got a potentially expensive and time-consuming card in your hands.
+
+### Bedtime Routing (Kids)
+It can be super rewarding when nighttime includes bonding over the day’s events, cuddling like nobody’s business, or lying quietly with your precious child. Not so much when this routine becomes a battle over bedtime. Pleas for just one more glass of water or five more minutes of reading can test your patience and fortitude (no wonder Go the F*** to Sleep is a bestselling book).
+
+While one person needs to take the CPE lead, the other is not home free (i.e., this is not an ideal window of time for you to hit the couch and start flipping channels). Your collaboration is encouraged. Try this: One partner holds the “bathing and grooming (kids)” card to get the party started while the other is responsible for jammies, stories, and lights out. Keep in mind that this routine won’t last forever. Before you know it, your babies will be teenagers and you’ll be going to sleep long before them.
+
+### Birth Control
+Why is this a separate card instead of being a component of self-care or medical? Because the woman should not be the she-fault cardholder, meaning either of you can claim this card. If having a baby is not on you and your partner’s agenda, this cardholder will research contraception options, which may include buying condoms, the pill, an IUD, or scheduling a vasectomy. (Not sure if being too tired to have sex at all is considered a form of birth control? Ask around.)
+
+### Clothes & Accessories (Kids)
+News flash: Your kids’ shoes and clothes—in sizes that fit— don’t magically show up in their closets. Someone needs to CPE what clothes and accessories to buy, get to the appropriate stores, clean out drawers periodically, and hand off used and outgrown clothes to the “tidying up, organizing, and donations” cardholder. Suggested timeline: If your child’s feet have blisters, you’ve probably waited too long to buy new shoes. Exception: If there is a camp or school one-off clothing need (see Case of the Color War), this responsibility stays with the “school breaks (summer)” or “homework” cardholder.
+
+### Dental (Kids)
+Your kid’s job: Pick out a rubber band color for his braces. Your job: Carve out a boatload of time for orthodontist appointments and pay for it all, too. Regular dental visits will also keep you plenty busy because each child needs regular cleanings and checkups (it’s been six months already?) along with more time-consuming appointments for getting cavities filled. You get a free toothbrush at the end of each visit, so at least there’s that.
+
+### Diapering & Potty Training (Kids)
+Let’s be clear: This cardholder will **not** be the only one changing diapers. Expect to re-deal this card often. While you are the lead, you will, however, be the one responsible for maintaining inventory, including ordering new diapers or washing cloth ones, and getting the soiled ones out of your house ASAP. This cardholder will also oversee potty training your kids, including cleaning up the mistakes along the way. When you’re finally a diaper-free home, you may still find yourself wiping the butt of your first grader, who is perfectly capable of doing it on his or her own. This will end one day—promise.
+
+### Estate Planning & Life Insurance
+Who will take care of your kids if something catastrophic happens to you and your partner? Of course both partners will plan together as you think about long-term security for your family and life-and-death medical decisions, but ultimately this cardholder is responsible for making sure the job gets done so you can all sleep at night knowing there’s a worst-case scenario plan (and insurance funds) in place.
+
+### Friendships & Social Media (Kids)
+Do you know who your kids are playing with IRL and online? Unless your children come home from school in tears confiding in you, how would you know if they’re hanging with the wrong crowd, feeling left out, or being bullied? Make it your business to plug in (get it?) to your kids’ social dynamics online and also help plan and supervise playdates, sleepovers, and any other kid get-togethers.
+
+### Grooming & Wardrobe (Player 2)
+Imagine a conversation that starts innocently enough with a husband asking his wife, “Babe, where’s my black suit?” Then comes, “Never mind. Found it.” (Pause.) “Shoot, it doesn’t fit anymore.” And the coup de grâce is that their best friends’ wedding begins in one hour and the clock is ticking while he blames his wife for failing to buy or rent him a new one.
+
+This scenario is all too common as many women in hetero cis gender relationships CPE this card for their husbands. That’s right, grown men told me they rely on their wives not only to help them get dressed for special events but also to schedule haircuts, hem their pants, and replace their underwear with holes. If that truly works for you both, God bless. Otherwise, please consider taking this card for yourself, mister. You can do it.
+
+### Health Insurance
+It’s a blessing to have health insurance. The paperwork that goes along with it? Not so much. Unless you somehow find a medical practice that handles all the billing for you, this cardholder needs to know every time anyone in your family goes to the doctor, makes sure the appropriate paperwork is filed for insurance, keeps track of reimbursements, and steps in when things go awry. Every time you see an envelope from your insurance provider (consult with the “mail” cardholder to ensure you receive), say a prayer that you’ve been covered.
+
+### Homework, Projects, & School Supplies (Kids)
+Has homework become a family affair? Even if you swore you’d never be the kind of parent who micromanages and digs in to your kids’ assignments, you at least need to be in the know if they don’t do their homework and be available if your child needs support. CPEing this card means not only taking the lead on daily assignments but also school projects and enrichment learning at home. If your child needs poster board for “Star Student of the Week” or munchies for “Snack Day,” that’s also on you, as well as outfitting your child for “Wacky Winter” dress-up day and providing two dozen (hand-signed!) Valentine’s Day cards on February 14. This is an endless job, so re-deal this card often.
+
+### Medical & Healthy Living (Kids)
+From stocking up on standard pain relievers and regular checkups at the pediatrician to seeing specialists as needed, your kids’ medical care requires tremendous research, coordination, and time. Healthy living may also include buying vitamins and healthy snacks (in collaboration with the “groceries” cardholder) and inspiring an active lifestyle with family exercise or other heart- pumping activities. This cardholder also takes the lead stocking up on items like hand sanitizer, sunscreen, and bug spray. Exception: You’re off the hook from dealing with “health insurance” unless that’s your card, too.
+
+### Morning Routine (Kids)
+When was the last time you slept in, pooped in peace, or leisurely read the newspaper while drinking coffee in the morning? Before kids, if you’re holding this card. This cardholder is prepared for daily combat before sunrise with a baby and early still with school-aged kids who often need rousing from bed and help getting dressed, hair and teeth brushed, sunscreen applied, and ushering out the door. At least the “meals (weekday breakfast)” cardholder takes the lead on getting them fed.
+
+### Parents & In-Laws
+Whether your parents and/or in-laws live nearby or thousands of miles away, it’s a relationship that can require a fair amount of TLC and CPE. Someone’s got to call them regularly, help them figure out how to turn on their TV with one of their 100-year-old remotes, and invite them to holiday or birthday celebrations. (Or maybe not.)
+
+### Pets
+When you got your pet, the deal was that the kids would take on a lot of the responsibility. Ha! Now, here you are with a bundle of furry love . . . and a bundle of work. Your to-do list depends on what kind of animal you have, but across the board this cardholder typically CPEs food, veterinary appointments, grooming, pet supplies, finding a pet sitter for when you’re away, and the least fun but most important—taking out the kitty litter or being on the ready with poop bag in hand.
+
+### School Service (Kids)
+When you agreed to chaperone the museum field trip, it seemed like a worthwhile opportunity to spend time with your child and his classmates. Which it was . . . until you found yourself sitting at the back of a school bus trying not to puke. This card pulls you into a time-sucking vortex that includes reading through a chain of 43 emails (was “reply all” really necessary?), school- sponsored lectures (another one?), and baking cupcakes (nut free?). And what’s up with schools requesting volunteers to be class “moms”? Dads make excellent class parents, too, ya know.
+
+### School Transitions (Kids)
+If your child needs to apply to a new school (kindergarten through college), this card may include tours, filling out applications, writing essays, ordering transcripts, test preps for the ACT and SAT, and more. And that work only begins after you’ve completed loads of research about where to apply, considered what might be the best fit for your child, and created your best chances to get in. (Is the lottery really just a lottery? Better find out.)
+
+### Self-Care (Player 1)
+Each of you gets a self-care card regardless of how many children and other responsibilities you have. For some, a daily multivitamin, a good book, and a hot bath fit the bill. Others may have weekly therapy or wellness appointments, and also set aside regular time to exercise. No guilt or shame allowed. Take this important time for you and allow your partner to do the same.
+
+### Self-Care (Player 2)
+Each of you gets a self-care card regardless of how many children and other responsibilities you have. For some, a daily multivitamin, a good book, and a hot bath fit the bill. Others may have weekly therapy or wellness appointments, and also set aside regular time to exercise. No guilt or shame allowed. Take this important time for you and allow your partner to do the same.
+
+### Special Needs & Mental Health (Kids)
+Obviously this card needs to be CPE’d with tremendous care if your child has special needs or mental health issues. From identifying the problem to finding the best resources, scheduling appointments, monitoring medication, planning treatment, handling a school IEP, and beyond, this cardholder will steer the ship that guides your child safely and with love. It takes a village, so your Planning should include how to utilize any help from your wider support system to create an environment that fosters progress.
+
+### Teacher Communications (Kids)
+Every teacher and child is different, so this cardholder’s responsibility could be as minimal as showing up to the parent-teacher conference once or twice a year. Or your communication may involve a weekly email exchange or speaking daily and face-to-face to discuss homework and your child’s unique learning needs. As the CPEer, it’s up to you to proactively keep tabs on your kiddos in their school environment to identify potential challenges and work with their teachers to help them thrive.
