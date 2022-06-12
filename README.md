@@ -6,7 +6,7 @@ This project is meant to make the data more open and accessible to others. Howev
 
 | Suit                | Markdown                                   | JSON                                                    |
 | ------------------- | ------------------------------------------ | ------------------------------------------------------- |
-| All Cards           | [all-cards.md](./all-cards.md)             | [all-cards.md](./json/all-cards.json)                   |
+| All Cards           | [all-cards.md](./all-cards.md)             | [all-cards.json](./json/all-cards.json)                 |
 | Home Suit           | [home-suit.md](./home-suit.md)             | [home-suit.json](./json/home-suit.json)                 |
 | Out Suit            | [out-suit.md](./out-suit.md)               | [out-suit.json](./json/out-suit.json)                   |
 | Caregiving Suit     | [caregiving-suit.md](./caregiving-suit.md) | [caregiving-suit.json](./json/caregiving-suit.json)     |
