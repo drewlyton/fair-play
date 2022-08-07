@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "066066613be0826a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa656fb2ad124e8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec39cf41149aa9d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "227e5b5fd896563f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab2745edefd8066c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8f165584d4d64fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a894c51dbded2a73",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0251d39b0cc600",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da7b48938fcf30cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0aa656fb2ad124e8",
+  "lastOpenFiles": [
+    "How to Transition to a Testing Culture.md",
+    "You Should Be Able To Develop Offline.md",
+    "README.md",
+    "thumbnails/10 Things.jpg"
+  ]
+}
