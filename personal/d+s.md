@@ -8,7 +8,7 @@
 | Hosting                                 | Lawn & Plants                           |
 | Mail                                    | Weekday Breakfast                       |
 | Memories & Photos                       | Dinner                                  |
-| Money Manager                           | Weekend Meals                           |
+| Money Manager                           |                          |
 | Storage, Garage & Seasonal Items        | Bank & Bills                            |
 | Auto                                    | Electronics & IT                        |
 | Calendar Keeper                         | Packing & Unpacking                     |
@@ -28,3 +28,4 @@
 | Holidays                                |                                         |
 | Partner Coach                           |                                         |
 | Thank-You Notes                         |                                         |
+|                 Weekend Meals                        |       |
